@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for QazaqGuessr
 
 Last updated: 2026-05-10

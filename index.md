@@ -1,3 +1,8 @@
+---
+layout: default
+title: QazaqGuessr
+---
+
 # QazaqGuessr
 
 QazaqGuessr is a geography guessing game about Kazakhstan.
@@ -6,4 +11,3 @@ QazaqGuessr is a geography guessing game about Kazakhstan.
 
 - [Privacy Policy](privacy-policy.md)
 - [Data deletion instructions](privacy-policy.md#data-deletion)
-
